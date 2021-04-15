@@ -1,0 +1,6 @@
+development:
+   password: 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
+   theme_id: "121881788578"
+   store: vcasilla-development-store.myshopify.com
+   ignore_files:
+      - config/settings_data.json
