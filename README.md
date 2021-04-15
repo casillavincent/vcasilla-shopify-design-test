@@ -1,10 +1,13 @@
 # Shopify Mock Site
 I was fascinated by Shopify's templating language Liquid and I thought I'd create a mock, eCommerce store.
-
+<br />
+<br />
+<br />
 ## See the live site [here](http://store.vcasilla.com/)
 Password - Apple1221
-
-
+<br />
+<br />
+<br />
 ## Screenshots
 <img width="1428" alt="Screen Shot 2021-04-14 at 10 34 58 PM" src="https://user-images.githubusercontent.com/73447863/114819230-00315e00-9d72-11eb-98ec-0a027dcb3275.png">
 <img width="1427" alt="Screen Shot 2021-04-14 at 10 34 40 PM" src="https://user-images.githubusercontent.com/73447863/114819233-01628b00-9d72-11eb-92c4-5a187a59e801.png">
