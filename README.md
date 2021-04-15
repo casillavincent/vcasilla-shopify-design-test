@@ -2,7 +2,7 @@
 I was fascinated by Shopify's templating language Liquid and I thought I'd create a mock, eCommerce store.
 
 ## See the live site [here](http://store.vcasilla.com/)
-### Password - Apple1221
+Password - Apple1221
 
 
 ## Screenshots
