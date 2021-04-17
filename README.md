@@ -4,7 +4,7 @@ I was fascinated by Shopify's templating language Liquid and I thought I'd creat
 <br />
 <br />
 ## See the live site [here](http://store.vcasilla.com/)
-Password - Apple1221
+Password - Apple123
 <br />
 <br />
 <br />
